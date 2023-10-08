@@ -8,37 +8,37 @@
   },
   {
     "id": 2,
-    "img": "https://example.com/image2.jpg",
+    "img": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1pdCUyMHVuaXZlcnNpdHklMjB0cmFuaW5nJTIwY2VudGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
     "price": 39.99,
-    "name": "Product 2",
-    "short_description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "name": "Training Center",
+    "short_description": "Our university has a separate training system. Every year, many students are given admission for training on the basis of merit through the examination."
   },
   {
     "id": 3,
-    "img": "https://example.com/image3.jpg",
+    "img": "https://media.istockphoto.com/id/641330632/photo/male-and-female-hikers-climbing-up-mountain-cliff-and-one-of-them-giving-helping-hand.webp?b=1&s=170667a&w=0&k=20&c=RRibjkzdYFYbRmbhtxkZLpGwjBaxHCYSw_X309UNux0=",
     "price": 49.99,
-    "name": "Product 3",
-    "short_description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    "name": "Great Support",
+    "short_description": "Our students are given 100% support by the institution so that they can learn and understand every subject well."
   },
   {
     "id": 4,
-    "img": "https://example.com/image4.jpg",
+    "img": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bWl0JTIwdW5pdmVyc2l0eSUyMHRyYW5pbmclMjBjZW50ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
     "price": 19.99,
-    "name": "Product 4",
-    "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    "name": "No Limitation",
+    "short_description": "We do not have a specific number of classes or practicals, until all the students are able to understand the subject well, our institution will take classes or practicals about that subject."
   },
   {
     "id": 5,
-    "img": "https://example.com/image5.jpg",
+    "img": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dW5pdmVyc2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
     "price": 59.99,
-    "name": "Product 5",
-    "short_description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "name": "Institution's Culture",
+    "short_description": "The environment inside our institution is always relaxed, due to which our students are also excited and very eager to learn something new."
   },
   {
     "id": 6,
     "img": "https://example.com/image6.jpg",
     "price": 79.99,
-    "name": "Product 6",
-    "short_description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    "name": "Curriculum Development",
+    "short_description": "We take a test on attendance from the beginning of the year to the end of the year and on the complete syllabus at the end of the year and pass the next class by determining marks based on merit and experience."
   }
 ]
