@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "img": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZWR1Y2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+      "price": 29.99,
+      "name": "Education Organization",
+      "short_description": "Our institution is one of the best institutions in the world because we teach our students everything hand-in-hand and try to make them experts by showing the same thing over and over again. "
+    },
+    {
+      "id": 2,
+      "img": "https://example.com/image2.jpg",
+      "price": 39.99,
+      "name": "Product 2",
+      "short_description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "img": "https://example.com/image3.jpg",
+      "price": 49.99,
+      "name": "Product 3",
+      "short_description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    },
+    {
+      "id": 4,
+      "img": "https://example.com/image4.jpg",
+      "price": 19.99,
+      "name": "Product 4",
+      "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": 5,
+      "img": "https://example.com/image5.jpg",
+      "price": 59.99,
+      "name": "Product 5",
+      "short_description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 6,
+      "img": "https://example.com/image6.jpg",
+      "price": 79.99,
+      "name": "Product 6",
+      "short_description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+    }
+  ]
